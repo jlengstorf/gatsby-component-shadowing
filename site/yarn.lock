@@ -8434,9 +8434,9 @@ text-table@0.2.0, text-table@^0.2.0:
   integrity sha1-f17oI66AUgfACvLfSoTsP8+lcLQ=
 
 theme-component-shadowing-test@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/theme-component-shadowing-test/-/theme-component-shadowing-test-1.0.0.tgz#97d7cd2dd2011e35bde3c4f99d33826d013331bf"
-  integrity sha512-ouXe4BxxEMhulSygbOUpdEVofd/SdFrPDpxa4FWRaesxUY973xZOGzKNrrTRgbvXyAL6YTt/9/GW/Nyll58u/g==
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/theme-component-shadowing-test/-/theme-component-shadowing-test-1.0.1.tgz#f53f8413b8b28272763e6cf0d4d9d90c54f5adf3"
+  integrity sha512-5sv1yO5FYO2rMRgYrUmR3msW8wpDpcPPIOs1E+QaN2fa391GLD1OFkrBC8sADs1ZAhGUuRVIhNFuR44qp2iXiA==
   dependencies:
     gatsby-plugin-compile-es6-packages "^1.0.6"
     gatsby-plugin-page-creator "^2.0.10"
