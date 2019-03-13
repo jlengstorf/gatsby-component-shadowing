@@ -1,5 +1,5 @@
 {
-  "name": "theme",
+  "name": "theme-component-shadowing-test",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -19,5 +19,7 @@
   "dependencies": {
     "gatsby-plugin-compile-es6-packages": "^1.0.6",
     "gatsby-plugin-page-creator": "^2.0.10"
-  }
+  },
+  "repository": "https://github.com/jlengstorf/gatsby-component-shadowing",
+  "author": "Jason Lengstorf <jason@gatsbyjs.com>"
 }

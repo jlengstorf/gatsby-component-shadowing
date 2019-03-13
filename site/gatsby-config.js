@@ -1,3 +1,3 @@
 module.exports = {
-  __experimentalThemes: ['theme']
+  __experimentalThemes: ['theme-component-shadowing-test']
 };
